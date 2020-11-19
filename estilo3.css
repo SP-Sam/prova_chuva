@@ -1,0 +1,156 @@
+body {
+    position: absolute;
+    width: 1366px;
+    height: 2072px;
+    background: #FFFFFF;
+}
+
+header#sideMenu3 {
+    height: 2072px;
+    width: 220px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: -47.44%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+section#content3 {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1059px;
+    height: 1382px;
+    left: 263px;
+    top: 88px;
+}
+
+.painelResumo3 {
+    position: absolute;
+    width: 1058px;
+    height: 550px;
+    left: 263px;
+    top: 630px;
+    
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.resumo3 {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.txtResumo3 {
+    position: absolute;
+    width: 1028px;
+    left: 15px;
+    top: 8px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    
+    display: flex;
+    align-items: center;
+    
+    color: #4E4E4E;
+}
+
+.textoResumo3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 1028px;
+    height: 114px;
+    left: 12px;
+    top: 55px;
+
+}
+
+.lorenResumo3 {
+    position: absolute;
+    width: 1028px;
+    height: 114px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14.4px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    
+    color: #5C5C5C;
+}
+
+.painelDiscussoes3 {
+    position: absolute;
+    width: 1058px;
+    height: 621px;
+    left: 263px;
+    top: 1220px;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px;   
+}
+
+.discussoes {
+    position: absolute;
+    width: 1058px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+
+    background: #FDF1EB;
+    border: 1px solid #ECECEC;
+    box-sizing: border-box;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.txtDiscussoes {
+    position: absolute;
+    width: 1028px;
+    left: 15px;
+    top: 8px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    
+    color: #4E4E4E;
+}
+
+.footer3 {
+    position: relative;
+    width: 1146px;
+    height: 181px;
+    left: 230px;
+    top: 1891px;
+    right: 4.01%;
+    bottom: 0%;
+}
